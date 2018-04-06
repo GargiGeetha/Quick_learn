@@ -3,7 +3,7 @@ Learning repository creation
 
 Opearting system    :     LINUX
 Programming Language:     C
-Program Name        :     dec_to_binary_conversion.c
-Compilation command :     gcc -g -o dec_to_binary_conversion dec_to_binary_conversion.c 
-Run the code        :     ./dec_to_binary_conversion 
+Program Name        :     binary_to_dec_conversion.c
+Compilation command :     gcc -g -o binary_to_dec_conversion dec_to_binary_conversion.c 
+Run the code        :     ./binary_to_dec_conversion 
 
