@@ -4,7 +4,7 @@
 
 #include<stdio.h> 
 #include<math.h> 
-
+// Function to calculate the Integer part
 double calculate_decimal(long int n)
 {
 int rev, decimal=0,p=0;
@@ -18,7 +18,7 @@ p++;
 return decimal;
 }
 
-
+// FUnction to calculate the decimal part
 double calculate_mant(double decpart)
 {
 double a,mant=0;
